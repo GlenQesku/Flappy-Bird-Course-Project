@@ -1,2 +1,36 @@
-# Flappy-Bird-Course-Project
-A Python course project recreating the classic Flappy Bird game using Pygame, featuring player movement, pipe obstacles, collision detection, and score tracking.
+# Flappy Bird Course Project
+
+## Overview
+
+Flappy Bird Course Project is a Python-based recreation of the classic Flappy Bird game. The project was developed as a course project to demonstrate basic game development concepts, including player movement, collision detection, scoring, event handling, and game loop logic.
+
+The game challenges the player to control a bird and navigate it through gaps between pipes without hitting obstacles or falling to the ground.
+
+## Features
+
+- Classic Flappy Bird-style gameplay
+- Player-controlled bird movement
+- Pipe obstacles with collision detection
+- Score tracking system
+- Game-over condition
+- Simple and understandable Python structure
+- Suitable for beginner-level game development practice
+
+## Technologies Used
+
+- Python
+- Pygame
+
+## Project Structure
+
+```text
+Flappy-Bird-Course-Project/
+│
+├── main.py
+├── assets/
+│   ├── bird.png
+│   ├── pipe.png
+│   └── background.png
+│
+├── README.md
+└── requirements.txt
