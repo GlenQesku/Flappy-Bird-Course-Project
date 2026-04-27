@@ -27,13 +27,12 @@ The game challenges the player to control a bird and navigate it through gaps be
 Flappy-Bird-Course-Project/
 │
 ├── flappy.py
-├── assets/
-│   ├── bird1.png
-│   ├── bird2.png
-│   ├── bird3.png
-│   ├── bg.png
-│   ├── restart.png
-│   ├── pipe.png
-│   └── ground.png
+├── bird1.png
+├── bird2.png
+├── bird3.png
+├── bg.png
+├── restart.png
+├── pipe.png
+├── ground.png
 └── README.md
  
