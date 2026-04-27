@@ -27,6 +27,7 @@ The game challenges the player to control a bird and navigate it through gaps be
 Flappy-Bird-Course-Project/
 │
 ├── flappy.py
+├── requirements.txt
 ├── bird1.png
 ├── bird2.png
 ├── bird3.png
@@ -35,4 +36,67 @@ Flappy-Bird-Course-Project/
 ├── pipe.png
 ├── ground.png
 └── README.md
- 
+```
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/GlenQesku/Flappy-Bird-Course-Project.git
+```
+
+2. Open the project folder:
+
+```bash
+cd Flappy-Bird-Course-Project
+```
+
+3. Install the required package:
+
+```bash
+pip install -r requirements.txt
+```
+
+If `pip` does not work on Windows, try:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+or:
+
+```bash
+py -m pip install -r requirements.txt
+```
+
+## How to Run
+
+Run the game with:
+
+```bash
+python flappy.py
+```
+
+If that does not work on Windows, try:
+
+```bash
+py flappy.py
+```
+
+## How to Play
+
+- Press the left mouse button to start the game.
+- Keep pressing or clicking the left mouse button to make the bird fly upward.
+- Avoid hitting the pipes.
+- Avoid falling to the ground.
+- Try to pass through as many pipes as possible to increase your score.
+- After losing, click the restart button to play again.
+
+## Author
+
+Glen Qesku
+
+## Purpose
+
+This project was created for educational purposes as a Python course project.
